@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+    <string name="app_name">Constitution du Benin</string>    
+    <string name="home">Accueil</string>    
+    <string name="action_settings">Configuration</string>
+    <string name="help">Aide</string>
+    <string name="about">A propos</string>
+    <string name="prefdesc">Les paramètres pour l\'utilisation de l\'application</string>
+    <string name="preftitle">Affichage et Navigation</string>
+    <string name="lastpositiontitle">Sauvegarder la dernière position</string>
+    <string name="lastpositionsummary">Ouvrir le dernier chapitre sur lequel vous étiez</string>
+    <string name="keepscreenon_summary">Laisser l\'écran allumé lors de la lecture</string>
+    <string name="keepscreenon_title">Gardez l\'écran allumé</string>
+    <string name="settings">Paramètres de lecture</string>
+    <string name="on_upgrade_error">Cela ne devrait pas être appelé</string>
+    <string name="hint">Ajouter une note</string>
+    <string name="notes">Notes</string>
+    <string name="delete">Supprimer</string>
+    <string name="share">Partager</string>
+    <string name="share_title">Partager votre note</string>
+    <string name="download_update">Mise à jour</string>
+    <string name="update_title">Mise à jour Constitution du Bénin</string>
+    <string name="update_description">Une nouvelle édition du contenu de la constitution est disponible</string>
+    <string name="update_desc">Clic</string>
+    <string name="update_complete">Mise à jour terminée!</string>
+    <string name="sceau_et_marteau">sceau et marteau</string>
+    <string name="drapeau">drapeau</string>
+    <string name="titre">La constitution du Bénin</string>    
+
+</resources>

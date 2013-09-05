@@ -1,0 +1,70 @@
+{
+  "title": "Constitution de la République du Benin",
+  "chapters": [
+    {
+      "file": "0.htm",
+      "title": "PREAMBULE",
+      "libelle": "PREAMBULE"
+    },
+    {
+      "file": "1.htm",
+      "title": "TITRE I: Articles 1-6",
+      "libelle": "DE L'ETAT ET DE LA SOUVERAINETE"
+    },
+    {
+      "file": "2.htm",
+      "title": "TITRE II: Articles 7-40",
+      "libelle": "DES DROITS ET DES DEVOIRS DE LA PERSONNE HUMAINE"
+    },
+    {
+      "file": "3.htm",
+      "title": "TITRE III: Articles 41-78",
+      "libelle": "DU POUVOIR EXECUTIF"
+    },
+    {
+      "file": "4.htm",
+      "title": "TITRE IV: Articles 79-113",
+      "libelle": "DU POUVOIR LEGISLATIF"
+    },
+    {
+      "file": "5.htm",
+      "title": "TITRE V: Articles 114-124",
+      "libelle": "DE LA COUR CONSTITUTIONNELLE"
+    },
+    {
+      "file": "6.htm",
+      "title": "TITRE VI: Articles 125-138",
+      "libelle": "DU POUVOIR JUDICIAIRE"
+    }
+    ,{
+      "file": "7.htm",
+      "title": "TITRE VII: Articles 139-141",
+      "libelle": "DU CONSEIL ECONOMIQUE ET SOCIAL"
+    },
+    {
+      "file": "8.htm",
+      "title": "TITRE VIII: Articles 142-143",
+      "libelle": "DE LA HAUTE AUTORlTE DE L'AUDIO-VISUEL ET DE LA COMMUNICATION"
+    },
+    {
+      "file": "9.htm",
+      "title": "TITRE IX: Articles 144-149",
+      "libelle": "DES TRAITES ET ACCORDS INTERNATIONAUX"
+    },
+    {
+      "file": "10.htm",
+      "title": "TITRE X: Articles 150-153",
+      "libelle": "DES COLLECTIVITES TERRITORIALES"
+    },
+    {
+      "file": "11.htm",
+      "title": "TITRE XI: Articles 154-156",
+      "libelle": "DE LA REVISION"
+    },
+    {
+      "file": "12.htm",
+      "title": "TITRE XII: Articles 157-160",
+      "libelle": "DISPOSITIONS TRANSITOIRES ET FINALES"
+    }
+  ]
+}

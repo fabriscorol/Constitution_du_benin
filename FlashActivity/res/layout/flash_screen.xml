@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_cb"
+    android:gravity="center_vertical|center_horizontal|center" 
+    android:orientation="vertical" 
+    tools:context=".MainActivity" >
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="fill_parent"
+        android:layout_height="150dp"
+        android:contentDescription="@string/sceau_et_marteau"
+        android:src="@drawable/bg_cb1" />
+    
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/titre"
+        android:textColor="#000"
+        android:textSize="28sp" 
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="10dp" />    
+</LinearLayout>

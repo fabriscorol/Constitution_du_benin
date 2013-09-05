@@ -1,0 +1,53 @@
+{
+  "title": "Constitution de la République du Benin",
+  "chapters": [
+    {
+      "file": "0.htm",
+      "title": "TITRE I: Articles 1-6"
+    },
+    {
+      "file": "1.htm",
+      "title": "TITRE II: Articles 7-40"
+    },
+    {
+      "file": "2.htm",
+      "title": "TITRE III: Articles 41-78"
+    },
+    {
+      "file": "3.htm",
+      "title": "TITRE IV: Articles 79-113"
+    },
+    {
+      "file": "4.htm",
+      "title": "TITRE V: Articles 114-124"
+    },
+    {
+      "file": "5.htm",
+      "title": "TITRE VI: Articles 125-138"
+    }
+    ,{
+      "file": "6.htm",
+      "title": "TITRE VII: Articles 139-141"
+    },
+    {
+      "file": "7.htm",
+      "title": "TITRE VIII: Articles 142-143"
+    },
+    {
+      "file": "8.htm",
+      "title": "TITRE IX: Articles 144-149"
+    },
+    {
+      "file": "9.htm",
+      "title": "TITRE X: Articles 150-153"
+    },
+    {
+      "file": "10.htm",
+      "title": "TITRE XI: Articles 154-156"
+    },
+    {
+      "file": "11.htm",
+      "title": "TITRE XII: Articles 157-160"
+    }
+  ]
+}
